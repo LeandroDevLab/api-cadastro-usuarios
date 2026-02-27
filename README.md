@@ -141,7 +141,7 @@ Resposta:
 Crie um arquivo `.env` na raiz do projeto:
 
 ```
-DATABASE_URL="mongodb+srv://usuario:senha@cluster.mongodb.net/nomeDoBanco"
+DATABASE_URL="mongodb+srv://SEU_USUARIO:SUA_SENHA@cluster.mongodb.net/nomeDoBanco"
 ```
 
 ---
